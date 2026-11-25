@@ -14,14 +14,27 @@ fight, so the scene is anchored in the kitchen — a shared-household
 memory only this brother shares, which makes the To: line and the
 message need each other. The lowercase typing is kept so it reads as
 typed, never sent.
+
+Finisher revision (v3): v2's "i was just glad it wasn't me" states the
+relief as an afterthought, which softens the confession. The laugh
+itself WAS the relief — so the revision makes the relief the motive for
+the laugh ("because for once it wasn't me getting yelled at"), which is
+the uglier, more honest truth and the real reason it stayed unsent.
+The dinner-table anchor is kept, and the lowercase typing is kept so
+it reads as typed, never sent.
+
+Finisher revision (v4): "getting yelled at" repeats "yelled" from
+earlier in the line and pads the ending. Cut it — the sentence now
+lands on "me", which is the confession's point, and the shorter line
+reads more like something actually typed in a hurry and never sent.
 """
 
 import os
 
 ENTRY = (
     "To: my older brother\n"
-    "i'm sorry i laughed when dad yelled at you in the kitchen that night. "
-    "i was just glad it wasn't me"
+    "i laughed when dad yelled at you at dinner because for once "
+    "it wasn't me"
 )
 
 
